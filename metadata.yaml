@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41334
     wikipedia: http://en.wikipedia.org/wiki/Marc_Elder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41738#Deux-essais
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2012-12-30'
 gutenberg_type: Text
